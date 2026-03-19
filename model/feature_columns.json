@@ -1,0 +1,18 @@
+[
+  "Store",
+  "DayOfWeek",
+  "Open",
+  "Promo",
+  "SchoolHoliday",
+  "StoreType",
+  "Assortment",
+  "CompetitionDistance",
+  "Promo2",
+  "Promo2SinceWeek",
+  "Promo2SinceYear",
+  "Year",
+  "Month",
+  "Day",
+  "Is_StateHoliday",
+  "Competitor_Open_Months"
+]
